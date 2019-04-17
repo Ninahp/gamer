@@ -1,2 +1,2 @@
 # scala101
-bleh bleh bleh
+This is a basic introduction to scala, creating a webserver using Akka. Have fun
