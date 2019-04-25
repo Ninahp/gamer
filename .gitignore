@@ -1,0 +1,11 @@
+.idea
+target/
+
+
+# Compile results
+target/**
+project/project/**
+project/target/**
+
+
+src/target/**

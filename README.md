@@ -1,2 +1,2 @@
-# scala101
-This is a basic introduction to scala, creating a webserver using Akka. Have fun
+This is a simple webserver and a voice app created with scala while using the Africa's Talking API. 
+Have fun.
